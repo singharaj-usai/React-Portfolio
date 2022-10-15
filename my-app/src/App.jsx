@@ -1,6 +1,6 @@
 import Banner from './components/sections/Banner/Banner';
 import Card from './components/sections/Card/Card';
-import './App.css';
+import Navbar from './components/sections/Navbar/Navbar';
 
 function App() {
   return (
@@ -11,7 +11,9 @@ function App() {
           <div className="w-full lg:w-1/3 ">
             <Card/>
           </div>
-          
+          <div className="w-full lg:w-2/3 ">
+            <Navbar/>
+          </div>
         </div>
       </div>
     </main>
