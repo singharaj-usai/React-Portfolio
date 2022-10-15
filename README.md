@@ -19,7 +19,7 @@
 
 ## Screenshot
 
-![](././src/../my-app/src/images/Screenshot%202022-10-15%20092009.png)
+![](././src/../my-app/src/images/1.png)
 
 ## Links
 
