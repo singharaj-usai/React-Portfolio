@@ -30,13 +30,13 @@ const Card = () => {
         <h1 className="text-xl text-gray-800 font-bold mb-1">Singharaj Usai</h1>
         <p className="text-sm text-gray-400 mb-3">
           Fullstack Web Developer Student at
-          <a href="#https://bootcamp.msu.edu/" className="text-teal-500 pl-1">
+          <a href="#https://bootcamp.msu.edu/" className="text-teal-500 pl-1 hover:text-teal-300 transition ease-out duration-200">
             Michigan State University's Code Camp
           </a>
         </p>
         <a
           href="#0"
-          className="inline-block mb-3 rounded bg-teal-500 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-teal-800"
+          className="inline-block mb-3 rounded bg-teal-500 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-teal-300 transition ease-out duration-200"
           download="Resume"
         >
           Download Resume
