@@ -1,2 +1,3 @@
 import React from 'react';
-import{} from 'react-icons/fa';
+import{ FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
+import picture from '../../../images/roblox noob render.png';
