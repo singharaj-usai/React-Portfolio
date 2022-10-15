@@ -1,6 +1,6 @@
 import React from 'react';
 import{ FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
-import picture from '../../../images/roblox noob render.png';
+import picture from '../../../images/noob.png';
 
 const socials = [
     {
@@ -26,6 +26,7 @@ const Card = () => {
             <div>
             <img src={picture} alt="singharaj" className="w-full" />
             </div>
+            
         </aside>
     );
 };
