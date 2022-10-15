@@ -20,7 +20,7 @@ const socials = [
     },
 ]
 
-const Card = () = > {
+const Card = () => {
     return (
         <aside>
         </aside>
