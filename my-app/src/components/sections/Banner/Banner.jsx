@@ -3,7 +3,7 @@ import banner from '../../../images/MadCity.png';
 
 const Banner = () => {
   return (
-    <div className='h-60 w-full'>
+    <div className='h-80 w-full'>
       <img
         src={banner}
         alt='banner'
