@@ -41,15 +41,27 @@ const Card = () => {
         >
           Download Resume
         </a>
-
+        <ul className="flex flex-wrap justify-center">
+          {socials.map((social, id) => (
+            <SocialIcon social={social} key={id} />
+          ))}
+        </ul>
       </div>
         </aside>
     );
 };
 
-// From our React class notes props
-const socials = (props) {
-
-}
 
 export default Card;
+
+// From our React class notes props
+const SocialIcon = (props) => {
+    const {icon, link} = props.social;
+    return (
+        <li className='m-2'>
+            <a href={link} className='w-8 h-8 bg-teal-100 rounded text-teal-800 flex items-center justify-center hover:text-white hover:bg-teal-600 transition ease-out duration-200'>
+                {icon}
+                </a>
+        </li>
+    )
+}
