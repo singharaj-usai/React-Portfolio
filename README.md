@@ -1,6 +1,6 @@
 # React Portfolio
 
-# ⚠️ GO HERE FOR THE NEW REPO LINK: https://github.com/singharaj-usai/New-React-Portfolio
+# ⚠️ GO HERE FOR THE NEW REPO LINK: https://github.com/singharaj-usai/New-Portfolio
 
 ## Index
 - [React Portfolio](#react-portfolio)
