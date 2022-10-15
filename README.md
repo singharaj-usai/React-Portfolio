@@ -5,6 +5,7 @@
   - [Index](#index)
 - [Overview](#overview)
   - [Summary](#summary)
+  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Made With](#made-with)
 
@@ -15,6 +16,10 @@
 ## Summary
 
 💻 Amazing React portfolio that took a long time and lots of headaches to try to deploy to GitHub pages
+
+## Screenshot
+
+![](././src/../my-app/src/images/Screenshot%202022-10-15%20092009.png)
 
 ## Links
 
