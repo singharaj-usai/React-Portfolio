@@ -18,9 +18,9 @@
 
 ## Links
 
-Live Site URL: https://singharaj-usai.github.io/Web-API-Code-Quiz/
+Live Site URL: https://singharaj-usai.github.io/React-Portfolio/
 
-Repository URL: https://github.com/singharaj-usai/Web-API-Code-Quiz
+Repository URL: https://github.com/singharaj-usai/React-Portfolio
 
 ## Made With
 
