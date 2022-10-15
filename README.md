@@ -18,7 +18,7 @@
 💻 Amazing React portfolio that took a long time and lots of headaches to try to deploy to GitHub pages
 
 ## Screenshot
-
+* Home page
 ![](././src/../my-app/src/images/1.png)
 
 ## Links
