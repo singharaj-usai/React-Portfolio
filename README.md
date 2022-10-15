@@ -19,7 +19,7 @@
 
 ## Screenshot
 * Home page
-![](././src/../my-app/src/images/1.png)
+![](./src/../my-app/src/images/1.png)
 
 ## Links
 
