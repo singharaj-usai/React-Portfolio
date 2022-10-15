@@ -22,7 +22,7 @@ const socials = [
 
 const Card = () => {
     return (
-        <aside>
+        <aside >
             <div>
             <img src={picture} alt="singharaj" className="w-full" />
             </div>

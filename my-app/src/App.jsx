@@ -11,6 +11,7 @@ function App() {
           <div className="w-full lg:w-1/3 ">
             <Card/>
           </div>
+          
         </div>
       </div>
     </main>
