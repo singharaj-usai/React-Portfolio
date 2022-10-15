@@ -3,6 +3,7 @@ import { BrowserRouter as Router, NavLink, Route, Switch } from 'react-router-do
 import About from '../../pages/About/About';
 import Skills from '../../pages/Skills/Skills';
 import Webdev from '../../pages/Webdev/Webdev';
+import GFX from '../../pages/GFX/GFX';
 const navbarData = [
     {
         id: 1,
@@ -18,6 +19,11 @@ const navbarData = [
         id: 3,
         title: "Web Dev Work",
         to: "/webdev",
+      },
+      {
+        id: 4,
+        title: "GFX Work",
+        to: "/gfx",
       },
 ]
 
@@ -44,6 +50,9 @@ const Navbar = () => {
           </Route>
           <Route path="/webdev">
             <Webdev/>
+          </Route>
+          <Route path="/gfx">
+            <GFX/>
           </Route>
         </Switch>
       </Router>
