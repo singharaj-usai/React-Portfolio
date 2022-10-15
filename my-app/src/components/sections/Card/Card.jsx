@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaLinkedinIn, FaTwitter, FaDeviantart } from 'react-icons/fa';
 import picture from '../../../images/noob.png';
 
 const socials = [
@@ -17,6 +17,11 @@ const socials = [
     id: 3,
     icon: <FaTwitter />,
     link: '#https://twitter.com/OMrbobbilly',
+  },
+  {
+    id: 4,
+    icon: <FaDeviantart />,
+    link: '#https://deviantart.com/realmrbobbilly',
   },
 ]
 
