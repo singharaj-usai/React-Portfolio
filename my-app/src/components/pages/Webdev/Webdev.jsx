@@ -10,7 +10,7 @@ const portfolioData = [
     id: 1,
     //image: image1,
     title: "JavaScript Code Quiz",
-    link: "#0",
+    link: "https://github.com/singharaj-usai/Web-API-Code-Quiz",
     description:
       "A JavaScript code quiz using the default browser's API.",
   },
@@ -18,7 +18,7 @@ const portfolioData = [
     id: 2,
     //image: image2,
     title: "PWA Text Editor",
-    link: "#0",
+    link: "https://github.com/singharaj-usai/PWA-Text-Editor",
     description:
       "A Progressive Web App text editor that runs on the browser and works offline.",
   },
@@ -26,7 +26,7 @@ const portfolioData = [
     id: 3,
     //image: image3,
     title: "Express.JS Note Taker",
-    link: "#0",
+    link: "https://github.com/singharaj-usai/Express-Note-Taker",
     description:
       "A note taker powered by Express.",
   },
@@ -34,9 +34,25 @@ const portfolioData = [
     id: 4,
     //image: image4,
     title: "Node.JS Readme Generator",
-    link: "#0",
+    link: "https://github.com/singharaj-usai/Readme-Generator",
     description:
       "A Readme generator powered by Node.js.",
+  },
+  {
+    id: 5,
+    //image: image4,
+    title: "Calculator",
+    link: "https://github.com/singharaj-usai/Javascript-Calculator",
+    description:
+      "A simple static calculator that is powered by Javascript using key inputs.",
+  },
+  {
+    id: 6,
+    //image: image4,
+    title: "Password Generator",
+    link: "https://github.com/singharaj-usai/Javascript-Password-Generator",
+    description:
+      "A randomly generated password generator with prompt inputs.",
   },
 ];
 
