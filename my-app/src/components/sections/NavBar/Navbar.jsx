@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, NavLink, Route, Switch } from 'react-router-dom';
 import About from '../../pages/About/About';
 import Skills from '../../pages/Skills/Skills';
+import Webdev from '../../pages/Webdev/Webdev';
 const navbarData = [
     {
         id: 1,
@@ -12,6 +13,11 @@ const navbarData = [
         id: 2,
         title: "Skills",
         to: "/skills",
+      },
+      {
+        id: 3,
+        title: "Web Dev Work",
+        to: "/webdev",
       },
 ]
 
@@ -28,13 +34,16 @@ const Navbar = () => {
   
         <Switch>
           <Route exact path="/">
-            <About />
+            <About/>
           </Route>
           <Route path="/about">
-            <About />
+            <About/>
           </Route>
           <Route path="/skills">
-            <Skills />
+            <Skills/>
+          </Route>
+          <Route path="/webdev">
+            <Webdev/>
           </Route>
         </Switch>
       </Router>

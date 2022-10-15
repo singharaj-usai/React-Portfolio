@@ -16,7 +16,7 @@ const serviceData = [
     icon: <FaHtml5 />,
     title: "Web Development",
     description:
-      "Learned Fullstack Web Development using the MERN stack from MSU's Coding Bootcamp",
+      "Learned Fullstack Web Development using the MERN stack from MSU's Coding Bootcamp.",
   },
   {
     id: 3,
