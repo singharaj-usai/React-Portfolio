@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.c0160227.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.0af5fa5d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.0af5fa5d.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.71051d5d.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.71051d5d.js.map",
+    "static/js/2.3f7153d5.chunk.js": "/React-Portfolio/static/js/2.3f7153d5.chunk.js",
+    "static/js/2.3f7153d5.chunk.js.map": "/React-Portfolio/static/js/2.3f7153d5.chunk.js.map",
+    "static/js/3.2a9d7599.chunk.js": "/React-Portfolio/static/js/3.2a9d7599.chunk.js",
+    "static/js/3.2a9d7599.chunk.js.map": "/React-Portfolio/static/js/3.2a9d7599.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.c0160227.chunk.css.map": "/React-Portfolio/static/css/main.c0160227.chunk.css.map",
+    "static/js/2.3f7153d5.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.3f7153d5.chunk.js.LICENSE.txt",
+    "static/media/Banner1.73b7a598.png": "/React-Portfolio/static/media/Banner1.73b7a598.png",
+    "static/media/MadCity.030ebd37.png": "/React-Portfolio/static/media/MadCity.030ebd37.png",
+    "static/media/noob.9733bbf8.png": "/React-Portfolio/static/media/noob.9733bbf8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71051d5d.js",
+    "static/js/2.3f7153d5.chunk.js",
+    "static/css/main.c0160227.chunk.css",
+    "static/js/main.0af5fa5d.chunk.js"
+  ]
+}
