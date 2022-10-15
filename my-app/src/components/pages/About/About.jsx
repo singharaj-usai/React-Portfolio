@@ -7,7 +7,7 @@ const About = () => {
         <div className="w-full">
           <div className="md:mx-4">
             <h3 className="text-2xl text-gray-800 font-bold mb-4">Who am I?</h3>
-            <p className="text-sm text-gray-400 leading-6 mb-3">
+            <p className="text-gray-400 leading-6 mb-3">
              To do
             </p>
           </div>
