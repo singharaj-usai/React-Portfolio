@@ -6,22 +6,22 @@ const socials = [
   {
     id: 1,
     icon: <FaGithub />,
-    link: '#https://github.com/singharaj-usai',
+    link: 'https://github.com/singharaj-usai',
   },
   {
     id: 2,
     icon: <FaLinkedinIn />,
-    link: '#https://www.linkedin.com/in/singharaj-usai',
+    link: 'https://www.linkedin.com/in/singharaj-usai',
   },
   {
     id: 3,
     icon: <FaTwitter />,
-    link: '#https://twitter.com/OMrbobbilly',
+    link: 'https://twitter.com/OMrbobbilly',
   },
   {
     id: 4,
     icon: <FaDeviantart />,
-    link: '#https://deviantart.com/realmrbobbilly',
+    link: 'https://deviantart.com/realmrbobbilly',
   },
 ]
 
@@ -35,7 +35,7 @@ const Card = () => {
         <h1 className="text-xl text-gray-800 font-bold mb-1">Singharaj Usai</h1>
         <p className="text-sm text-gray-400 mb-3">
           Fullstack Web Developer Student at
-          <a href="#https://bootcamp.msu.edu/" className="text-blue-500 pl-1 hover:text-blue-300 transition ease-out duration-200">
+          <a href="https://bootcamp.msu.edu/" className="text-blue-500 pl-1 hover:text-blue-300 transition ease-out duration-200">
             Michigan State University's Code Camp
           </a>
         </p>
