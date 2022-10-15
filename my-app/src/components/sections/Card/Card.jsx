@@ -30,7 +30,7 @@ const Card = () => {
         <h1 className="text-xl text-gray-800 font-bold mb-1">Singharaj Usai</h1>
         <p className="text-sm text-gray-400 mb-3">
           Fullstack Web Developer Student at
-          <a href="#0" className="text-teal-500 pl-1">
+          <a href="#https://bootcamp.msu.edu/" className="text-teal-500 pl-1">
             Michigan State University's Code Camp
           </a>
         </p>
