@@ -47,4 +47,9 @@ const Card = () => {
     );
 };
 
+// From our React class notes props
+const socials = (props) {
+
+}
+
 export default Card;
