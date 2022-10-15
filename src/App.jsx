@@ -1,10 +1,11 @@
 import Banner from './components/sections/Banner/Banner';
 import Card from './components/sections/Card/Card';
 import Navbar from './components/sections/Navbar/Navbar';
+import Footer from "./components/sections/Footer/Footer";
 
 function App() {
   return (
-    <main>
+    <main className="min-h-screen relative bg-gray-50 pb-10">
       <Banner/>
       <div className="container px-4">
         <div className="flex flex-wrap px-4">
@@ -16,6 +17,7 @@ function App() {
           </div>
         </div>
       </div>
+      <Footer/>
     </main>
   );
 }
