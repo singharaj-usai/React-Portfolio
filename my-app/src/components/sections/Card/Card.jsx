@@ -19,3 +19,12 @@ const socials = [
         link: '#https://twitter.com/OMrbobbilly',
     },
 ]
+
+const Card = () = > {
+    return (
+        <aside>
+        </aside>
+    );
+};
+
+export default Card;
